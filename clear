@@ -1,0 +1,10 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 496ceea..ec9197c 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,4 +1,4 @@[m
+ [m
+ <p>Minna San Konichiwwa</p>[m
+ <p>This is feature 2(Dropdown)</p>[m
+[31m-<p>This is feature 2 (button)</p>[m
+[32m+[m[32mgit[m[41m [m
