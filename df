@@ -1,0 +1,27 @@
+[1mdiff --git a/clear b/clear[m
+[1mnew file mode 100644[m
+[1mindex 0000000..40c750d[m
+[1m--- /dev/null[m
+[1m+++ b/clear[m
+[36m@@ -0,0 +1,10 @@[m
+[32m+[m[32m[1mdiff --git a/index.html b/index.html[m[m
+[32m+[m[32m[1mindex 496ceea..ec9197c 100644[m[m
+[32m+[m[32m[1m--- a/index.html[m[m
+[32m+[m[32m[1m+++ b/index.html[m[m
+[32m+[m[32m[36m@@ -1,4 +1,4 @@[m[m
+[32m+[m[32m [m[m
+[32m+[m[32m <p>Minna San Konichiwwa</p>[m[m
+[32m+[m[32m <p>This is feature 2(Dropdown)</p>[m[m
+[32m+[m[32m[31m-<p>This is feature 2 (button)</p>[m[m
+[32m+[m[32m[32m+[m[32mgit[m[41m [m[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 496ceea..978d0b3 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,4 +1,4 @@[m
+ [m
+ <p>Minna San Konichiwwa</p>[m
+[31m-<p>This is feature 2(Dropdown)</p>[m
+[31m-<p>This is feature 2 (button)</p>[m
+[32m+[m[32m<p>This is feature 2(button)</p>[m
+[41m+[m
